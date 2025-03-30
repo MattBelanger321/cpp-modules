@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(demo)
 target_sources(demo
 	PUBLIC
-	src/main.cpp
+	main.cpp
 )
 target_sources(demo
 	PUBLIC
